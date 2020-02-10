@@ -1,6 +1,6 @@
 # Cochrane_library_crawler
 
-System requirements:
+System requirements: \
 Java : 8+ \
 Maven : 3.6 and higher
 
